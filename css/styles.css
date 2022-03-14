@@ -1,0 +1,177 @@
+body{
+    background-color: #8E7969;
+    position: relative;
+    margin: 10px 0;
+    font-family: 'Cormorant Garamond', sans-serif;
+    
+}
+
+.header{ 
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    background-color: #F7F5F8;
+}
+
+.name{
+    padding: 10px 50px;
+    color: #492715;
+    display: inline-block;
+    font-family: 'Syne Mono', monospace;
+}
+
+.link{
+    position: relative;
+    color: #492715;
+    text-decoration: none;
+    display: inline-block;
+    left: 500px;
+    padding: 15px;
+    font-family: 'Hubballi', cursive;
+    
+}
+a :hover{
+    color: #8E7969;
+    text-decoration: underline;
+}
+
+.body{
+    background-color: #806958;
+    position: absolute;
+    height: 450px;
+    width: 420px;
+    top: 300px;
+    right: 50px;
+}
+
+.logo{
+    position: absolute;
+    margin: 175px 100px;
+    width: 850px;
+    height: 675px;
+
+}
+
+h4{
+    color: #F7F5F8;
+    padding-top: 75px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    font-family: 'Hubballi', cursive;
+}
+
+.description{
+    color: white;
+    font-family: 'Hubballi', cursive;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h3{
+    color: #F7F5F8;
+    padding-top: 20PX;
+    padding-left: 20px;
+    font-family: roboto, sans-serif;
+    text-decoration: underline;
+}
+
+.half-body{
+    background-color: #CBAB91;
+    position: absolute;
+    width: 100%;
+    height: 425px;
+    top: 500px;
+}
+
+.about-me{
+    position: relative;
+    background-color: #F7F5F8;
+    height: 230px;
+    top: 925px;
+
+}
+
+.me{
+    position: absolute;
+    color: #492715;
+    text-decoration: none;
+    margin-top: 50px;
+    right: 570px;
+    width: 200px;
+    font-family: 'Hubballi', cursive;
+    
+}
+
+.adress{
+    position: absolute;
+    color: #492715;
+    text-decoration: none;
+    margin-top: 110px;
+    right: 155px;
+    width: 1040px;
+    text-align: center;
+    font-family: 'Hubballi', cursive;
+}
+
+.footer{
+    background-color: #806958;
+    position: relative;
+    height: 410px;
+    top: 900px;
+}
+
+.contacts{
+    padding: 70px;
+}
+
+.email{
+    position: relative;
+    font-family: 'Hubballi', cursive;
+    text-decoration: none;
+    color: #F7F5F8;
+    padding: 1px;
+    margin-left: 50px;
+
+}  
+
+.phone{
+    position: relative;
+    font-family: 'Hubballi', cursive;
+    text-decoration: none;
+    color: #F7F5F8;
+    padding: 1px;
+    margin-left: 50px;
+ 
+}  
+
+.ad{
+    position: relative;
+    font-family: 'Hubballi', cursive;
+    text-decoration: none;
+    color: #F7F5F8;
+    padding: 1px;
+    margin-left: 50px;
+
+}  
+
+
+.copyright{
+    background-color: #CBAB91;
+    position: relative;
+    height: 130px;
+    top: 900px;
+    
+}
+
+.social{
+    position: relative;
+    bottom: 200px;
+    padding-left: 1100px;
+}
+
+.copy{
+    position: relative;
+    bottom: 100px;
+    padding-left: 50px;
+}
+
